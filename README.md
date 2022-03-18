@@ -1,7 +1,11 @@
 👋 Hi, I’m Nguyen Vinh Khang
+
 📅 22/01/2000
+
 🙋 Male
+
 📱 0962 435 100
+
 📧 nvkhang221@gmail.com
 
 💻 FRONT-END:
