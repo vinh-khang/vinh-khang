@@ -7,12 +7,13 @@
 📱 0962 435 100
 
 📧 nvkhang221@gmail.com
-
+----------------------------------
 💻 FRONT-END:
 - HTML, CSS (SCSS), Javascript
 - JQuery, Boostrap 4
 - React.js, Redux
-- 
+
+----------------------------------
 💻 BACK-END:
 - PHP
 - Laravel
